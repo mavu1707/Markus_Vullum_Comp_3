@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Markus_Vullum_Comp_3", "Markus_Vullum_Comp_3\Markus_Vullum_Comp_3.vcxproj", "{05187290-2BCE-4BAE-89D9-C69ACB5B036F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Debug|x64.ActiveCfg = Debug|x64
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Debug|x64.Build.0 = Debug|x64
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Debug|x86.ActiveCfg = Debug|Win32
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Debug|x86.Build.0 = Debug|Win32
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Release|x64.ActiveCfg = Release|x64
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Release|x64.Build.0 = Release|x64
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Release|x86.ActiveCfg = Release|Win32
+		{05187290-2BCE-4BAE-89D9-C69ACB5B036F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C56A40-E075-41A4-B42E-FBC3C4DF7F9A}
+	EndGlobalSection
+EndGlobal
